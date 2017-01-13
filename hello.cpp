@@ -1,4 +1,4 @@
-// hello.cpp: Maggie Johnson
+// hello.cpp: Nathan Duarte
 // Description: a program that prints the immortal saying "hello world"
 
 #include <iostream>

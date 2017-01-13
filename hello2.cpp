@@ -1,4 +1,4 @@
-// hello2.cpp: Maggie Johnson
+// hello2.cpp: Nathan Duarte
 // Description: a program that prints the immortal saying "hello world"
 // many times
 

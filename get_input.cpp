@@ -1,4 +1,4 @@
-// get_input.cpp: Maggie Johnson
+// get_input.cpp: Nathan Duarte
 // Description: Illustrate the use of cin to get input.
 
 #include <iostream>

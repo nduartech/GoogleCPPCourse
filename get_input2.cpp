@@ -1,4 +1,4 @@
-// get_input2.cpp: Maggie Johnson
+// get_input2.cpp: Nathan Duarte
 // Description: Illustrate the use of cin to get input
 // and how to recover from errors.
 

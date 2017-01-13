@@ -1,4 +1,4 @@
-// hello3.cpp: Maggie Johnson
+// hello3.cpp: Nathan Duarte
 // Description: a program that prints the immortal saying "hello world"
 // many times and illustrates some cout flags
 
